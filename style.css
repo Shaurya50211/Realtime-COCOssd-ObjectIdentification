@@ -1,0 +1,42 @@
+
+.heading
+{
+font-size: 30px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+    font-family: 'Rampart One', cursive;
+}
+
+canvas{
+    box-shadow: 2px 5px 32px black;
+    border-radius: 30px;
+    border: groove;
+    border-color: orange;
+    border-width: 5px;
+    margin-top: 20px;
+}
+
+#NumOfObjects{
+    color: coral;
+}
+
+.footer{
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    height: 30px;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
